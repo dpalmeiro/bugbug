@@ -48,6 +48,7 @@ on:
           - agents/dataset-eval
           - agents/frontend-triage
           - agents/gecko-triage
+          - agents/perf-regression
           - agents/test-plan-generator
           - agents/test-repair
           - agents/test-repair-fix
